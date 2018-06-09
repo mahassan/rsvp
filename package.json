@@ -1,0 +1,19 @@
+{
+  "name": "rsvp",
+  "version": "1.0.0",
+  "description": "rspv",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahassan/rsvp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahassan/rsvp/issues"
+  },
+  "homepage": "https://github.com/mahassan/rsvp#readme"
+}
